@@ -1,0 +1,6 @@
+
+#SSSS ,#abc,html{
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+@import "tailwindcss"
