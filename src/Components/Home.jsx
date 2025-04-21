@@ -9,7 +9,6 @@ const Home = () => {
     <>
       {/* <h1>this is home page</h1> */}
     <Navabr/>
-    <Form/>
     <Cards/>
     <Footer/>
    
